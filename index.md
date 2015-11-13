@@ -156,12 +156,15 @@ def make_byte(four_letters):
 --- #slide21 x:2000 y:1800 z:1000 scale:0.4 rotz:-90
 <img src="webappGenSearch.png" class="centeredImage" style="width: 99%;">
 
---- #slide22 x:3500 y:1500 z:500 scale:1 
+--- #slide22 x:3500 y:3500 z:1000 scale:1 
+<img src="python.jpg" class="centeredImage">
+<p style="font-size:16px" class="centeredText"> Wikipedia </p>
+
+--- #slide23 x:3500 y:2500 z:1000 scale:0.5
 <img src="happy-scientist.jpg" class="centeredImage">
 <p style="font-size:16px" class="centeredText"> https://heywhatwhatdidyousay.files.wordpress.com/2013/06/happy-scientist.jpg </p>
 
---- #slide23 x:5000 y:1500 z:1000 scale:1 rot:360 
+--- #slide24 x:3500 y:1500 z:1000 scale:1 rot:360 
 <p style="font-size:30px" class="centeredText"> THANK YOU FOR ATTENTION!</p>
-
 
 
