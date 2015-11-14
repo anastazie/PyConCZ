@@ -51,7 +51,7 @@ body {
 --- #title x:0 y:0 
 
 <p style="font-size:40px" class="centeredText"><b> Using Django for Genome Engineering </b> </p>
-<p style="font-size:38px; margin-top: 10px" class="centeredText"> Anasstassiya Zidkova, Filip Sedlák </p>
+<p style="font-size:38px; margin-top: 10px" class="centeredText"> Anastassiya Zidkova, Filip Sedlák </p>
 <img src="logo-merck-white.png" style="margin-top: 20px" class="centeredImage">
 
 --- #slide1 x:700 y:-800 scale:0.5
